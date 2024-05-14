@@ -1,0 +1,5 @@
+nodosPath
+/home/karma/repoROS/devel/.private/nodosPath/cmake.lock /home/karma/repoROS/devel/./cmake.lock
+/home/karma/repoROS/devel/.private/nodosPath/share/nodosPath/cmake/nodosPathConfig.cmake /home/karma/repoROS/devel/share/nodosPath/cmake/nodosPathConfig.cmake
+/home/karma/repoROS/devel/.private/nodosPath/share/nodosPath/cmake/nodosPathConfig-version.cmake /home/karma/repoROS/devel/share/nodosPath/cmake/nodosPathConfig-version.cmake
+/home/karma/repoROS/devel/.private/nodosPath/lib/pkgconfig/nodosPath.pc /home/karma/repoROS/devel/lib/pkgconfig/nodosPath.pc
