@@ -1,0 +1,6 @@
+<launch>
+    <rosparam command = "load" file = "$(find camera_usb)/config/camera_params.yaml"/>
+    <!--param name="/camera/deviceID" type="int" value="0" />-->
+    <node name = "camera_node" pkg = "camera_usb" type = "camera_usb" output = "screen"> </node>
+    <rosparam command="load" file="$(find camera_usb)/config/calibration_params.yaml"/>
+</launch>
